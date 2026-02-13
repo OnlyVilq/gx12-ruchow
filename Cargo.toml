@@ -1,0 +1,8 @@
+[package]
+name = "rust-gx12"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+gilrs = "0.10"
